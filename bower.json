@@ -1,8 +1,10 @@
 // Altered on 09/05
 
+
 {
   "name": "typeahead.js",
-  "version": "0.10.2",
+  "version": "10",
+   "minor version" : 2
   "main": "dist/typeahead.bundle.js",
   "dependencies": {
     "jquery": ">=1.7"
